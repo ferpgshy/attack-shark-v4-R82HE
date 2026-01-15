@@ -1,0 +1,16 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+
+# Logs / temp
+*.log
+*.tmp
+*.bak
+
+# Node/Electron dev artifacts (if present)
+node_modules/
+.vscode/
+.idea/

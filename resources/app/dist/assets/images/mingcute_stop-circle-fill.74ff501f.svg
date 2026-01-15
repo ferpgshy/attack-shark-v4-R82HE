@@ -1,0 +1,13 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="mingcute:stop-circle-fill">
+<g id="Group">
+<path id="Vector" d="M24 4C35.046 4 44 12.954 44 24C44 35.046 35.046 44 24 44C12.954 44 4 35.046 4 24C4 12.954 12.954 4 24 4ZM28 16H20C18.9391 16 17.9217 16.4214 17.1716 17.1716C16.4214 17.9217 16 18.9391 16 20V28C16 29.0609 16.4214 30.0783 17.1716 30.8284C17.9217 31.5786 18.9391 32 20 32H28C29.0609 32 30.0783 31.5786 30.8284 30.8284C31.5786 30.0783 32 29.0609 32 28V20C32 18.9391 31.5786 17.9217 30.8284 17.1716C30.0783 16.4214 29.0609 16 28 16Z" fill="url(#paint0_linear_4485_346060)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_4485_346060" x1="4" y1="24" x2="44" y2="24" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9FACE6"/>
+<stop offset="1" stop-color="#71A4F1"/>
+</linearGradient>
+</defs>
+</svg>

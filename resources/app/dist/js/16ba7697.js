@@ -1,0 +1,1 @@
+import{ap as t}from"./index.b078bf5f.js";import{_Keyboard_68_FreeWolf_F68_RT_LightSettings as o}from"@skin_2/JSON/figma_components/Keyboard_68_FreeWolf_F68_RT_LightSettings";import{l as _}from"./443d90d4.js";import"./3ce44458.js";const g=_(t(o).Keyboard_68_FreeWolf_F68_RT_LightSettings);export{g as Keyboard_ZDM_FreeWolf_F68_LightSettings};
