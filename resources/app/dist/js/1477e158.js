@@ -1,1 +1,0 @@
-import{CommonMsPan1080 as a}from"./c5a66cc9.js";import"./index.b078bf5f.js";class s extends a{defaultMatrix=[1,0,240,0,1,0,241,0,1,0,242,0,1,0,244,0,1,0,243,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,249,1,1,0,249,255,1,0,245,1,1,0,245,255]}export{s as Mouse_pan1080_g182_ajazz_screen3950_1k_8k};

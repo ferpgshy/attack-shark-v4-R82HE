@@ -1,1 +1,0 @@
-import{a8 as _}from"./index.b078bf5f.js";const o={menu_侧边导航栏_icon_default:{type:"svg",str:await _(()=>import("./1f9d8640.js"),[],import.meta.url).then(t=>t.default),id:{宏编辑:{},屏幕设置:{},Fn层设置:{},个人中心:{},更多:{},耳机设置:{},高级模式:{},改键设置:{},DPI设置:{},性能设置:{},本地配置:{},游戏:{},配置中心:{},场景预设:{},键盘设置:{},社区共享:{},灯光设置:{},指针设置:{}}}};export{o as _menu_侧边导航栏_icon_default};

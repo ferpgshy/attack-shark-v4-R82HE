@@ -1,0 +1,1 @@
+import{a8 as e}from"./index.b078bf5f.js";const o={menu_侧边导航栏:{type:"svg",str:await e(()=>import("./c738145b.js"),[],import.meta.url).then(t=>t.default),id:{default:{text:"text",icon:"g"},current:{text:"text",icon:"g"},hover:{text:"text",icon:"g"},current_hover:{text:"text",icon:"g"}}}};export{o as _menu_侧边导航栏};

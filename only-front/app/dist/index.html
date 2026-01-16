@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+    <head>
+        <meta charset="UTF-8" />
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+        />
+        
+        <!-- 
+            禁用浏览器缓存，确保每次都加载最新版本
+
+            Cache-Control 详细说明:
+            - no-cache: 强制浏览器在使用缓存前向服务器验证资源是否已更新
+            - no-store: 禁止浏览器和代理服务器存储任何缓存副本
+            - must-revalidate: 缓存过期后必须向原服务器验证
+            - max-age=0: 设置缓存最大生存时间为0秒，立即过期
+            - proxy-revalidate: 要求代理服务器在缓存过期后重新验证
+            - s-maxage=0: 设置共享缓存(如CDN)的最大生存时间为0秒
+            
+            这些设置确保每次刷新都能获取到最新的代码更改
+        -->
+        <meta
+            http-equiv="Cache-Control"
+            content="no-cache, no-store, must-revalidate, max-age=0, proxy-revalidate, s-maxage=0"
+        />
+        <!-- 兼容旧版浏览器的缓存控制 -->
+        <meta http-equiv="Pragma" content="no-cache" />
+        <!-- 设置过期时间为0，强制重新验证 -->
+        <meta http-equiv="Expires" content="0" />
+        <!-- 确保IE浏览器使用最新渲染引擎 -->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <title>GearHub</title>
+        <style>
+            html,
+            body,
+            #app {
+                margin: 0;
+                padding: 0;
+                width: 100%;
+                height: 100%;
+                user-select: none;
+            }
+
+            * {
+                box-sizing: border-box;
+            }
+        </style>
+      <script type="module" crossorigin src="./js/index.b078bf5f.js"></script>
+    </head>
+
+    <body>
+        <div id="app"></div>
+        
+    </body>
+</html>

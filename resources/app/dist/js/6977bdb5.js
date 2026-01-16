@@ -1,1 +1,0 @@
-import{j as n,V as e}from"./index.b078bf5f.js";const r=o=>n.jsxs(e,{type:"左右___主轴居中",style:{cursor:"pointer",color:"#fff",fontSize:14,userSelect:"none",margin:5},onClick:o.onClick,onMouseDown:o.onMouseDown,children:[o.icon&&n.jsx(e,{style:{marginRight:8},children:o.icon}),n.jsx(e,{children:o.text})]});export{r as Button_Text};

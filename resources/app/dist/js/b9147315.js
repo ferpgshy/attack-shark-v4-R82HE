@@ -1,1 +1,0 @@
-import{a8 as t}from"./index.b078bf5f.js";const r={icon_macro_mouse:{type:"svg",str:await t(()=>import("./c9b0e3ec.js"),[],import.meta.url).then(o=>o.default),id:{鼠标右键:{},鼠标左键:{},鼠标滚轮点击:{},鼠标前进:{},鼠标后退:{}}}};export{r as _};

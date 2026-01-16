@@ -1,0 +1,20 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Property 1=RY-AI">
+<g id="#title">
+<path d="M8.08 23.36H19.92L16.16 10H24.12L32 38H24L21.76 30.04H14.2L11.96 38H4L8.08 23.36Z" fill="url(#paint0_linear_4007_5414)"/>
+<path d="M35.5812 38V10H43.2612V38H35.5812Z" fill="url(#paint1_linear_4007_5414)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_4007_5414" x1="5.59961" y1="5.5" x2="54.0996" y2="42.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#74EBD5"/>
+<stop offset="0.46" stop-color="#9FACE6"/>
+<stop offset="1" stop-color="#71A4F1"/>
+</linearGradient>
+<linearGradient id="paint1_linear_4007_5414" x1="5.59961" y1="5.5" x2="54.0996" y2="42.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#74EBD5"/>
+<stop offset="0.46" stop-color="#9FACE6"/>
+<stop offset="1" stop-color="#71A4F1"/>
+</linearGradient>
+</defs>
+</svg>
