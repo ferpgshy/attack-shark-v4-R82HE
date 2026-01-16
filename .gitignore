@@ -15,17 +15,5 @@ node_modules/
 .vscode/
 .idea/
 
-# Bundle/artefatos pesados do Electron (para manter o repo leve)
-/resources/
-/locales/
-
-# Binários típicos do bundle (somente na raiz)
-/*.exe
-/*.dll
-/*.pak
-/*.bin
-/*.dat
-
-# Não ignore o front separado
-!/only-front/
-!/only-front/**
+# Repo FRONT separado (não versionar aqui)
+/only-front/

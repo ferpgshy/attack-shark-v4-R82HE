@@ -1,1 +1,0 @@
-import{a8 as t}from"./index.b078bf5f.js";const n={commonAudio:()=>t(()=>import("./30c9b7c2.js"),["./30c9b7c2.js","./index.b078bf5f.js"],import.meta.url).then(o=>({default:o.commonAudio}))},i=async o=>{try{const e=n[o.name??""];if(e){const r=await e();return new r.default(o)}else throw new Error("找不到设备对应的模块! (loader is undefined!)")}catch{return}};export{i as findAudioevice};

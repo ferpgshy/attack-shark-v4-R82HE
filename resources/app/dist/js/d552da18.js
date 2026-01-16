@@ -1,0 +1,1 @@
+const e='<div style="display:flex"><div id="default" style="display:inline-flex;justify-content:center;align-items:center;gap:10px;"><div id="#title" style="color:#3E3E3E;font-family:Source Han Sans SC-Regular;font-size:18px;font-weight:400;line-height:normal;">小标题_18px_Regular</div></div></div>';export{e as default};

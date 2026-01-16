@@ -1,1 +1,0 @@
-const e='<div style="display:flex"><div id="default" style="display:inline-flex;justify-content:center;align-items:center;gap:10px;"><div id="#title" style="color:#FFF;font-family:Source Han Sans SC-Medium;font-size:24px;font-weight:500;line-height:normal;">设备型号_24px_Medium</div></div></div>';export{e as default};
